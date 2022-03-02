@@ -1,0 +1,1 @@
+export * from "./templates/get-paths.ts";
